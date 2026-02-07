@@ -83,3 +83,7 @@ The results clearly show that engagement is unevenly distributed and that **data
 
 Overall, this project reflects my approach to data analysis:  
 **ask the right questions, write clean SQL, and deliver insights that actually matter.**
+
+---
+
+⭐ This project highlights my ability to write clean SQL queries, analyze data systematically, and translate results into meaningful business insights.
