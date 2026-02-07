@@ -1,0 +1,12 @@
+user_id,username,total_likes,total_comments,total_photos_posted,total_followers,unique_tags_used,total_engagement,,Row Labels,Sum of total_engagement
+96,Keenan.Schamberger60,98,75,6,76,6,173,,Keenan.Schamberger60,173
+87,Rick29,92,74,8,76,10,166,,Karley_Bosco,166
+69,Karley_Bosco,97,69,2,76,3,166,,Rick29,166
+26,Josianne.Friesen,94,69,10,76,11,163,,Elenor88,163
+63,Elenor88,83,80,8,76,6,163,,Josianne.Friesen,163
+67,Emilio_Bernier52,86,76,6,76,3,162,,Emilio_Bernier52,162
+15,Billy52,84,77,8,76,4,161,,Norbert_Carroll35,161
+17,Norbert_Carroll35,78,83,6,76,7,161,,Billy52,161
+2,Andre_Purdy85,94,66,8,76,7,160,,Andre_Purdy85,160
+35,Lennie_Hartmann40,92,67,4,76,0,159,,Lennie_Hartmann40,159
+,,,,,,,,,Grand Total,1634
